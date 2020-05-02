@@ -1,10 +1,10 @@
 cmake_minimum_required(VERSION 3.16)
-project(Week3)
+project(week-03)
 
 set(CMAKE_CXX_STANDARD 14)
 
 # uncomment the one we are working on
-add_executable(Week3
+add_executable(week-03
 #       bmi.cpp
 #       findErrors.cpp
        icecream.cpp

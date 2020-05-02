@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.15)
-project(Week10)
+project(week-10)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Week10 main.cpp Test.cpp)
+add_executable(week-10 main.cpp Test.cpp)
